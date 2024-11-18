@@ -12,4 +12,7 @@ Number of Schools in each neighborhood:
 https://data.wprdc.org/dataset/pittsburgh-public-school-locations
 https://data.wprdc.org/dataset/allegheny-county-private-schools-locations
 
+Police Arrests in Pittsburgh:
+https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+
 Overview: This repository analyzes the neighborhoods of Pittsburgh finding the best area to live based on liveability and safety. 
