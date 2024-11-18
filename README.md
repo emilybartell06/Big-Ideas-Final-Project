@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project
 Team Name: SEEE              
-Team Members + Emails: Emily Bartell (egb87@pitt.edu), Eliza Chapman ( ), Scarlett Weir (sjw142@pitt.edu), Ella Mankowski ( )	              
-Corresponding Notebooks: Emily - Fire Incidents, Eliza - , Scarlett - Number of Schools, Ella -	                         
+Team Members + Emails: Emily Bartell (egb87@pitt.edu), Elisa Chapman (etc50@pitt.edu), Scarlett Weir (sjw142@pitt.edu), Ella Mankowski ( )	              
+Corresponding Notebooks: Emily - Fire Incidents, Elisa - , Scarlett - Number of Schools, Ella -	                         
 Canvas Group Number: 3  
 
 Description and Links: 
