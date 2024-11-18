@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project
 Team Name: SEEE              
 Team Members + Emails: Emily Bartell (egb87@pitt.edu), Elisa Chapman (etc50@pitt.edu), Scarlett Weir (sjw142@pitt.edu), Ella Mankowski (ejm227@pitt.edu)              
-Corresponding Notebooks: Emily - Fire Incidents, Elisa - , Scarlett - Number of Schools, Ella -	                       
+Corresponding Notebooks: Emily - Fire Incidents, Elisa - , Scarlett - Number of Schools, Ella -	Firearm Seizures                    
 Canvas Group Number: 3  
 
 Description and Links: 
@@ -14,5 +14,8 @@ https://data.wprdc.org/dataset/allegheny-county-private-schools-locations
 
 Police Arrests in Pittsburgh:
 https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+
+Firearm Seizures:
+https://data.wprdc.org/dataset/pbp-fire-arm-seizures
 
 Overview: This repository analyzes the neighborhoods of Pittsburgh finding the best area to live based on liveability and safety. 
