@@ -13,7 +13,7 @@ https://data.wprdc.org/dataset/pittsburgh-public-school-locations
 https://data.wprdc.org/dataset/allegheny-county-private-schools-locations
 
 Police Arrests in Pittsburgh:
-https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
 Firearm Seizures:
 https://data.wprdc.org/dataset/pbp-fire-arm-seizures
